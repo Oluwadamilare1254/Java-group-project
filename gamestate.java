@@ -8,7 +8,7 @@ public class GameState {
     public static int draws = 0;
     public static Object playerOne;
     public static Object playerTwo;
-
+<!--added by spiff-->
     public void setPlayerNames(String playerOne, String playerTwo) {
     }
 }
